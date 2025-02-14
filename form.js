@@ -26,7 +26,7 @@ function validateForm() {
       errorContainer.innerHTML = errorMessages;
 
       if (errorMessages === '') {
-        alert('Form submitted successfull!');
+        alert('Form is submitted successfull!');
              
       }
     }
