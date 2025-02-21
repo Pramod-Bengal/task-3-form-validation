@@ -1,7 +1,7 @@
 function validateForm() {
       const name = document.getElementById('name').value;
       const email = document.getElementById('email').value;
-      const age = document.getElementById('age').value;
+      const age = document.getElementById('age ').value;
       const branch = document.getElementById('branch').value;
 
       let errorMessages = '';
